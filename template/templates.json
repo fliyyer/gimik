@@ -39,7 +39,11 @@
             "name": "Custom Link Preview",
             "dir_name": "custom_og_tags",
             "import_file": "mod_custom_og_tags"
+        },
+        {
+            "name": "Data Security Awareness – One Click Can Change Everything",
+            "dir_name": "presentation",
+            "import_file": "mod_presentation"
         }
-
     ]
 }
